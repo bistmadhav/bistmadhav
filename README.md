@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Madhav Bist
 - 👀 Graduating December of 2021 software engineering major 
-- Incomming Summer Intern at Mr. Cooper 
+- Incoming Summer Intern at Mr. Cooper 
 -  Looking for  fall INTERNSHIP in software or data engineering roles.
 - 🌱 I’m currently Studying The University of Texas at Arlington.
 - 💞️ Looking to work and add value to an orginzation. 
