@@ -3,7 +3,7 @@
 - 🌱 I’m currently Studying The University of Texas at Arlington.
 - Looking to work and add value to an orginzation. 
 - 📫 Phone: 9728275904
-- Email: bistmadhav5@gmail.com
+- Email: madhav.bist97@gmail.com
 
 <!---
 bistmadhav/bistmadhav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
