@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Madhav Bist
 - Looking to work and add value to an orginzation. 
-- 📫 Phone: 9728275904
+
 - Email: madhav.bist97@gmail.com
 
 <!---
